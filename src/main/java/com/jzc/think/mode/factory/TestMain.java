@@ -1,5 +1,8 @@
 package com.jzc.think.mode.factory;
 
+/**
+ * ∆’Õ®π§≥ß£®Factory Method£©
+ * */
 public class TestMain {
 	
 	public static void main(String[] args){

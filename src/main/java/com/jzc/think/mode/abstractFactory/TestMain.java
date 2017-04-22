@@ -1,5 +1,8 @@
 package com.jzc.think.mode.abstractFactory;
 
+/**
+ * 抽象工厂模式（Abstract Factory）
+ * */
 public class TestMain {
 	
 	public static void main(String[] args){
