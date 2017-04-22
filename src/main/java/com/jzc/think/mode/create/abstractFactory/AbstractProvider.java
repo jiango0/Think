@@ -1,4 +1,4 @@
-package com.jzc.think.mode.abstractFactory;
+package com.jzc.think.mode.create.abstractFactory;
 
 public interface AbstractProvider {
 	

@@ -1,4 +1,4 @@
-package com.jzc.think.mode.Singleton;
+package com.jzc.think.mode.create.Singleton;
 
 /**
  * µ¥ÀýÄ£Ê½£¨Singleton£©

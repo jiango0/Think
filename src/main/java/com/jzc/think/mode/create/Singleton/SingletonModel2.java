@@ -1,4 +1,4 @@
-package com.jzc.think.mode.Singleton;
+package com.jzc.think.mode.create.Singleton;
 
 public class SingletonModel2 {
 	

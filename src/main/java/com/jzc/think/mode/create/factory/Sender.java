@@ -1,4 +1,4 @@
-package com.jzc.think.mode.factory;
+package com.jzc.think.mode.create.factory;
 
 public interface Sender {
 	
