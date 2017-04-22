@@ -1,4 +1,4 @@
-package com.main;
+package com.jzc.think.first;
 
 import java.sql.Timestamp;
 import java.text.ParseException;
